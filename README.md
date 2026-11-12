@@ -48,9 +48,9 @@ Initialize a git repository in this folder and push to your GitHub account:
 ```bash
 git init
 git add .
-git commit -m "feat: initial commit of AnonReply"
+git commit -m "feat: initial commit of AnonReply Vercel Edition"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git remote add origin https://github.com/AnvilTriesToCode/AnonReplyVercel.git
 git push -u origin main
 ```
 

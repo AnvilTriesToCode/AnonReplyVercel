@@ -62,9 +62,9 @@ AnonReply uses MongoDB with a **native 72-hour TTL (Time-To-Live) index** that a
    ```bash
    git init
    git add .
-   git commit -m "feat: initial commit of AnonReply"
+   git commit -m "feat: initial commit of AnonReply Vercel Edition"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/anonreply.git
+   git remote add origin https://github.com/AnvilTriesToCode/AnonReplyVercel.git
    git push -u origin main
    ```
 
